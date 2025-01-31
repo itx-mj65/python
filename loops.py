@@ -34,3 +34,21 @@ for i in range(10):
     if i==3:
         continue
     print(i)
+
+ # pass in loop
+for i in range(10):
+ 
+        pass
+
+print("after pass")
+n=int(input("enter the number of  tables"))
+
+for table in range(11):
+     print(f"{n} X {table} = {n*table}")
+
+# starts with in for loop
+names=["Adeel","Bahawal","Ali"]
+
+for name in names:
+     if(name.startswith("A")):
+          print(name)
