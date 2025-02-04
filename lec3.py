@@ -18,3 +18,4 @@ print(skip)
 
 # this is strig functions 
 
+#here is jamshaid
